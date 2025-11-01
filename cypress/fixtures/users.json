@@ -1,0 +1,10 @@
+{
+    "validadUsers":{
+        "email":"asdasdsasdasdas",
+        "pasword":"asdsda"
+    },
+    "invalidUsers":{
+        "email":"psdappsad",
+        "pasword":"asdasasd"
+    }
+}
